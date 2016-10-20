@@ -1,0 +1,63 @@
+{
+  "name": "taller_api",
+  "version": "0.0.1",
+  "description": "Repositorio para el taller de APIs con Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xoscar/taller_api.git"
+  },
+  "keywords": [
+    "taller",
+    "itl",
+    "api",
+    "node"
+  ],
+  "author": "Oscar Reyes <oscar-rreyes1@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xoscar/taller_api/issues"
+  },
+  "homepage": "https://github.com/xoscar/taller_api#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "morgan": "^1.7.0",
+    "request": "^2.75.0"
+  },
+  "jshintConfig": {
+    "esnext": true,
+    "eqeqeq": true,
+    "forin": true,
+    "undef": true,
+    "unused": true,
+    "latedef": true,
+    "nocomma": true,
+    "predef": [
+      "console",
+      "require",
+      "process",
+      "module",
+      "exports",
+      "describe",
+      "it",
+      "setTimeout",
+      "__dirname",
+      "$",
+      "document"
+    ]
+  },
+  "jscsConfig": {
+    "preset": "airbnb",
+    "disallowSpacesInsideBrackets": false,
+    "disallowSpacesInsideArrayBrackets": false,
+    "maximumLineLength": false
+  },
+  "engines": {
+    "node": "6.1.0"
+  }
+}

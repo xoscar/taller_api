@@ -1,0 +1,20 @@
+[
+	{
+		"id": "01A",
+		"name": "Oscar Reyes",
+		"carrer": "Sistemas Computacionales",
+		"semester": 10
+	},
+	{
+		"id": "02A",
+		"name": "Mario Favela",
+		"carrer": "Sistemas Computacionales",
+		"semester": 4
+	},
+	{
+		"id": "03A",
+		"name": "Gerardo Gutierrez",
+		"carrer": "Sistemas Computacionales",
+		"semester": 8
+	}
+]

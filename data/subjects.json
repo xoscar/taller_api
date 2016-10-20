@@ -1,0 +1,29 @@
+[
+	{
+		"id": "01C",
+		"name": "Sistemas programables",
+		"carrer": "Sistemas Computacionales",
+		"hour": "10:00",
+		"classroom": "19A",
+		"teacher": "01B",
+		"students": ["01A", "02A"]
+	},
+	{
+		"id": "02C",
+		"name": "Desarrollo web",
+		"carrer": "Sistemas Computacionales",
+		"hour": "12:00",
+		"classroom": "19B",
+		"teacher": "02B",
+		"students": ["01A"]
+	},
+	{
+		"id": "03C",
+		"name": "Graficacion",
+		"carrer": "Sistemas Computacionales",
+		"hour": "13:00",
+		"classroom": "19C",
+		"teacher": "02C",
+		"students": ["02A", "03A"]
+	}
+]
